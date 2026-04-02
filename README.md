@@ -5,8 +5,8 @@
 
 ## 目录说明
 
-- novel-writer SKILLS 存放目录
-- novel 一部已经编写到一半的小说。其中包括 AI 生成的小说正文以及摘要。
+- [novel-writer](./novel-writer) SKILLS 存放目录
+- [novel](./novel) 一部已经编写到一半的小说。其中包括 AI 生成的小说正文以及摘要。
 
 ## 小说 SKILLS 设计的相关思考
 
